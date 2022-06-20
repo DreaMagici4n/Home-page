@@ -1,0 +1,156 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: "Roboto", sans-serif
+}
+
+.bottom-container{
+    background-color:black;
+    padding: 50px;
+    position: relative;
+}
+.footer-link{
+    color: #54BAB9;
+}
+.middle_container{
+    background-color: #F9F2ED;
+    position: relative;
+    margin: auto;
+}
+
+h1{
+    font-size: 6.5rem;
+    color: #ffffff;
+    line-height: 0;
+    font-family: "Neucha", cursive;
+    font-weight: normal;
+}
+h2{
+    font-size: 2.5em;
+    color: #54BAB9;
+    font-weight: normal;
+}
+h3{
+    color: #398685;
+    font-weight: normal;
+}
+
+.top_container{
+    background-color: black;
+    position: relative;
+    margin: auto;
+}
+.pro {
+    text-decoration: line-through;
+}
+.sub-title{
+    font-family: "Neucha", cursive;
+
+}
+.hey-gif{
+    width: 25%;
+    position: absolute;
+    left: 0;
+}
+.top-content{
+    width: 50%;
+    position: relative;
+    margin: auto;
+    padding: 3.25rem;
+
+}
+.skills{
+    position: relative;
+    margin: 12rem auto 20rem;
+}
+.skill-row-top{
+    width: 40%;
+    margin: 6.25rem auto 15.5rem;
+    text-align: left;
+    position: relative;
+}
+.skill-row-bottom{
+    width: 40%;
+    margin: 12.5rem auto 12.5rem;
+    text-align: left;
+    position: relative
+}
+.flowchart-img{
+    width: 40%;
+    float: left;
+    margin-right: 1.87rem;
+}
+.code-img{
+    width: 40%;
+    float: right;
+    margin-right: 10px;
+}
+.logo-image{
+    margin: 100px auto 100px;
+}
+.profile{
+    width: 40%;
+    margin: 15.5rem auto 15.5rem;
+    text-align: justify;
+    position: relative;
+
+}
+p{
+    font-size: 100%;
+    line-height: 2;
+
+}
+.profile-picture{
+    float: left;
+    margin-right: 50px;
+    padding-bottom: 100px;
+}
+hr{
+    border-style: dotted none none;
+    border-width: 10px;
+    width: 12.5rem;
+    margin: 6.25rem auto 6.25rem;
+    color: rgb(216, 214, 214)
+}
+#level-max{
+    font-size: 10px;
+}
+th{
+    padding-left: 20px;
+    text-align: left;
+    padding-bottom: 20px;
+}
+td{
+    padding-left: 20px ;
+    text-align: left;
+    letter-spacing: 1px;
+}
+/*#contact-me-btn{
+    background-color:#54BAB9;
+    border: none;
+    font-size: 20px;
+    border-radius: 5px;
+}
+*/
+.btn{
+    background-color: #54BAB9;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: bold;
+}
+.btn:hover{
+    background-color: #398685;
+}
+.contact-me{
+    margin: auto auto 100px;
+}
+.bottom-text{
+    color: white;
+}
+.footer-link{
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
